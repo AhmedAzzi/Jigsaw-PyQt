@@ -1,0 +1,42 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <!-- Images -->
+        <file alias="01.png">resources/images/01.png</file>
+        <file alias="1reset.png">resources/images/1reset.png</file>
+        <file alias="02.png">resources/images/02.png</file>
+        <file alias="03.png">resources/images/03.png</file>
+        <file alias="about.png">resources/images/about.png</file>
+        <file alias="back.png">resources/images/back.png</file>
+        <file alias="bg.gif">resources/images/bg.gif</file>
+        <file alias="bg2.gif">resources/images/bg2.gif</file>
+        <file alias="bg4.jpg">resources/images/bg4.jpg</file>
+        <file alias="choose.png">resources/images/choose.png</file>
+        <file alias="cow.jpg">resources/images/cow.jpg</file>
+        <file alias="demo.png">resources/images/demo.png</file>
+        <file alias="demo4.gif">resources/images/demo4.gif</file>
+        <file alias="dolphin.jpg">resources/images/dolphin.jpg</file>
+        <file alias="exit.png">resources/images/exit.png</file>
+        <file alias="f.jpg">resources/images/f.jpg</file>
+        <file alias="icon.png">resources/images/icon.png</file>
+        <file alias="Nasa.jpg">resources/images/Nasa.jpg</file>
+        <file alias="next.png">resources/images/next.png</file>
+        <file alias="pause.png">resources/images/pause.png</file>
+        <file alias="play.png">resources/images/play.png</file>
+        <file alias="play1.png">resources/images/play1.png</file>
+        <file alias="prev.png">resources/images/prev.png</file>
+        <file alias="r1_c.png">resources/images/r1_c.png</file>
+        <file alias="r1_o.png">resources/images/r1_o.png</file>
+        <file alias="reset.png">resources/images/reset.png</file>
+        <file alias="start2.png">resources/images/start2.png</file>
+        <!-- Add more image files as needed -->
+
+        <!-- Audio -->
+        <file alias="beep2.wav">resources/audio/beep2.wav</file>
+        <file alias="winner.wav">resources/audio/winner.wav</file>
+        <!-- Add more audio files as needed -->
+
+        <!-- Txt Files -->
+        <!-- Add any txt files here -->
+    </qresource>
+</RCC>
